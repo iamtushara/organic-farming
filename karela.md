@@ -31,7 +31,7 @@ Choosing the right season ensures faster germination and healthy plant growth. B
 - **Spacing**: Maintain a **30-45 cm gap between plants** and **1.5-2 meters between rows** to allow good airflow and easy vine spread.
 
 ### **Watch this organic planting guide for Karela:**
-[![Bitter Gourd Organic Farming](https://youtu.be/L6THkmbGieg?si=xk8ilAu5CPoOQNiW)](https://youtu.be/L6THkmbGieg?si=xk8ilAu5CPoOQNiW)
+![Tushar](https://youtu.be/L6THkmbGieg?si=xk8ilAu5CPoOQNiW)
 
 **Why is this important?**  
 Seed treatment prevents fungal infections and improves germination rates, while proper spacing helps avoid overcrowding, reducing disease risks.
