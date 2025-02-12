@@ -1,8 +1,8 @@
 
 
 # **Organic Farming Guide for Bitter Gourd (Karela) in India**
-
-![Bitter Gourd](https://upload.wikimedia.org/wikipedia/commons/3/3a/Bitter_Gourd.jpg)
+![Bitter Gourd](
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV8Mg30Tv0WBhIn-9-QQ0en9-wkHg8XMOs0KTpuV8AazuKQZKnZ3mxDfw&s=10)
 
 ## **Introduction**
 Bitter Gourd (Karela) is a highly nutritious vegetable widely grown in India for its medicinal and culinary uses. It is known for its **anti-diabetic, antioxidant, and immune-boosting properties**. This guide is tailored for **beginners** following **organic farming methods**.
@@ -31,7 +31,7 @@ Choosing the right season ensures faster germination and healthy plant growth. B
 - **Spacing**: Maintain a **30-45 cm gap between plants** and **1.5-2 meters between rows** to allow good airflow and easy vine spread.
 
 ### **Watch this organic planting guide for Karela:**
-[![Bitter Gourd Organic Farming](https://img.youtube.com/vi/kU7hEwnHme8/0.jpg)](https://www.youtube.com/watch?v=kU7hEwnHme8)
+[![Bitter Gourd Organic Farming](https://youtu.be/L6THkmbGieg?si=xk8ilAu5CPoOQNiW)](https://youtu.be/L6THkmbGieg?si=xk8ilAu5CPoOQNiW)
 
 **Why is this important?**  
 Seed treatment prevents fungal infections and improves germination rates, while proper spacing helps avoid overcrowding, reducing disease risks.
