@@ -1,4 +1,4 @@
-# Bitter Gourd (Karela) Organic Farming Guide
+# Karela (Bitter Gourd) Organic Farming Guide
 
 ## 1. English, Latin & Common Names
 
