@@ -71,28 +71,12 @@ Kakdi (Indian Long Cucumber) is a **fast-growing, vine crop** cultivated in **tr
 
 ## 10. Organic Pest & Disease Management  
 
-<table>  
-<tr>  
-<th>Common Issue</th>  
-<th>Organic Solution</th>  
-</tr>  
-<tr>  
-<td>Aphids & Whiteflies</td>  
-<td>Spray neem oil (5 ml per liter of water) every 10 days.</td>  
-</tr>  
-<tr>  
-<td>Fruit Fly</td>  
-<td>Use pheromone traps and neem-based sprays.</td>  
-</tr>  
-<tr>  
-<td>Powdery Mildew</td>  
-<td>Spray a mixture of baking soda (5 g per liter of water).</td>  
-</tr>  
-<tr>  
-<td>Downy Mildew</td>  
-<td>Use a mixture of cow urine and neem extract.</td>  
-</tr>  
-</table>  
+| Common Issue        | Organic Solution                                      |
+|---------------------|------------------------------------------------------|
+| Aphids & Whiteflies | Spray neem oil (5 ml per liter of water) every 10 days. |
+| Fruit Fly          | Use pheromone traps and neem-based sprays.           |
+| Powdery Mildew     | Spray a mixture of baking soda (5 g per liter of water). |
+| Downy Mildew       | Use a mixture of cow urine and neem extract.         |
 
 ## 11. Harvesting & Post-Harvest Care  
 
@@ -104,28 +88,11 @@ Kakdi (Indian Long Cucumber) is a **fast-growing, vine crop** cultivated in **tr
 
 ## 12. Common Problems & Organic Solutions  
 
-<table>  
-<tr>  
-<th>Problem</th>  
-<th>Cause</th>  
-<th>Solution</th>  
-</tr>  
-<tr>  
-<td>Yellowing Leaves</td>  
-<td>Nutrient deficiency</td>  
-<td>Apply **Jeevamrut** or **cow dung compost**.</td>  
-</tr>  
-<tr>  
-<td>Curled Leaves</td>  
-<td>Pest attack (aphids/mites)</td>  
-<td>Neem oil spray (5 ml per liter of water).</td>  
-</tr>  
-<tr>  
-<td>Low Yield</td>  
-<td>Poor pollination</td>  
-<td>Introduce bee-attracting flowers nearby.</td>  
-</tr>  
-</table>  
+| Problem          | Cause                        | Solution                                         |
+|-----------------|-----------------------------|-------------------------------------------------|
+| Yellowing Leaves | Nutrient deficiency         | Apply **Jeevamrut** or **cow dung compost**.    |
+| Curled Leaves   | Pest attack (aphids/mites)  | Neem oil spray (5 ml per liter of water).       |
+| Low Yield       | Poor pollination            | Introduce bee-attracting flowers nearby.        |
 
 ## 13. Additional Resources  
 

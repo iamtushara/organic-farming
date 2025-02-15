@@ -69,28 +69,12 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
 
 ## 10. Organic Pest & Disease Management  
 
-<table>  
-<tr>  
-<th>Common Issue</th>  
-<th>Organic Solution</th>  
-</tr>  
-<tr>  
-<td>Aphids & Leaf Miners</td>  
-<td>Spray neem oil (5 ml per liter of water) every 10 days.</td>  
-</tr>  
-<tr>  
-<td>Cutworms</td>  
-<td>Apply neem cake powder around plants.</td>  
-</tr>  
-<tr>  
-<td>Powdery Mildew</td>  
-<td>Use buttermilk spray (1:10 ratio with water).</td>  
-</tr>  
-<tr>  
-<td>Root Rot</td>  
-<td>Avoid overwatering and improve soil drainage.</td>  
-</tr>  
-</table>  
+| Common Issue        | Organic Solution                                      |
+|---------------------|------------------------------------------------------|
+| Aphids & Leaf Miners | Spray neem oil (5 ml per liter of water) every 10 days. |
+| Cutworms           | Apply neem cake powder around plants.                 |
+| Powdery Mildew     | Use buttermilk spray (1:10 ratio with water).         |
+| Root Rot           | Avoid overwatering and improve soil drainage.         |
 
 ## 11. Harvesting & Post-Harvest Care  
 
@@ -104,28 +88,11 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
 
 ## 12. Common Problems & Organic Solutions  
 
-<table>  
-<tr>  
-<th>Problem</th>  
-<th>Cause</th>  
-<th>Solution</th>  
-</tr>  
-<tr>  
-<td>Yellowing Leaves</td>  
-<td>Nutrient deficiency</td>  
-<td>Apply **Jeevamrut** or **cow dung compost**.</td>  
-</tr>  
-<tr>  
-<td>Slow Growth</td>  
-<td>Soil lacks nitrogen</td>  
-<td>Use **vermicompost or compost tea**.</td>  
-</tr>  
-<tr>  
-<td>Bolting (Flowering Too Early)</td>  
-<td>High temperatures</td>  
-<td>Plant in **cooler months** or provide **shade nets**.</td>  
-</tr>  
-</table>  
+| Problem                        | Cause                  | Solution                                      |
+|--------------------------------|------------------------|----------------------------------------------|
+| Yellowing Leaves               | Nutrient deficiency    | Apply **Jeevamrut** or **cow dung compost**. |
+| Slow Growth                    | Soil lacks nitrogen   | Use **vermicompost or compost tea**.        |
+| Bolting (Flowering Too Early)  | High temperatures     | Plant in **cooler months** or provide **shade nets**. |
 
 ## 13. Additional Resources  
 

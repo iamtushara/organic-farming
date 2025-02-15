@@ -8,7 +8,7 @@
   - Karela (Hindi)  
   - Pavakkai (Tamil)  
   - Hagalakai (Kannada)  
-  - Kakarakaya (Telugu)   
+  - Kakarakaya (Telugu)  
 
 ## 2. Introduction
 
@@ -67,28 +67,12 @@ Bitter Gourd is a nutritious and medicinal vegetable, widely cultivated in India
 
 ## 10. Organic Pest & Disease Management
 
-<table>
-<tr>
-<th>Common Issue</th>
-<th>Organic Solution</th>
-</tr>
-<tr>
-<td>Aphids & Whiteflies</td>
-<td>Spray neem oil (5 ml per liter of water) every 10 days.</td>
-</tr>
-<tr>
-<td>Fruit Fly</td>
-<td>Set up banana traps or pheromone traps.</td>
-</tr>
-<tr>
-<td>Powdery Mildew</td>
-<td>Apply a buttermilk or diluted whey spray.</td>
-</tr>
-<tr>
-<td>Root Rot</td>
-<td>Avoid overwatering and use Trichoderma compost.</td>
-</tr>
-</table>
+| Common Issue        | Organic Solution                                      |
+|---------------------|------------------------------------------------------|
+| Aphids & Whiteflies | Spray neem oil (5 ml per liter of water) every 10 days. |
+| Fruit Fly          | Set up banana traps or pheromone traps.              |
+| Powdery Mildew     | Apply a buttermilk or diluted whey spray.            |
+| Root Rot          | Avoid overwatering and use Trichoderma compost.       |
 
 ## 11. Harvesting & Post-Harvest Care
 
@@ -98,28 +82,11 @@ Bitter Gourd is a nutritious and medicinal vegetable, widely cultivated in India
 
 ## 12. Common Problems & Organic Solutions
 
-<table>
-<tr>
-<th>Problem</th>
-<th>Cause</th>
-<th>Solution</th>
-</tr>
-<tr>
-<td>Yellowing Leaves</td>
-<td>Nutrient deficiency</td>
-<td>Apply Jeevamrut organic fertilizer.</td>
-</tr>
-<tr>
-<td>Bitter Fruits</td>
-<td>Over-ripening</td>
-<td>Harvest early before full maturity.</td>
-</tr>
-<tr>
-<td>Low Yield</td>
-<td>Poor pollination</td>
-<td>Introduce bee-friendly flowers nearby.</td>
-</tr>
-</table>
+| Problem          | Cause                | Solution                                  |
+|-----------------|----------------------|-------------------------------------------|
+| Yellowing Leaves | Nutrient deficiency  | Apply Jeevamrut organic fertilizer.       |
+| Bitter Fruits   | Over-ripening        | Harvest early before full maturity.      |
+| Low Yield       | Poor pollination     | Introduce bee-friendly flowers nearby.   |
 
 ## 13. Additional Resources
 

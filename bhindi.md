@@ -76,7 +76,6 @@ Bhindi (Okra) is a **warm-season, fast-growing vegetable** commonly cultivated a
 | Yellow Vein Mosaic Virus (YVMV) | Use virus-resistant varieties and remove affected plants. |
 | Powdery Mildew               | Spray a mixture of milk and water (1:9 ratio).         |
 
-
 ## 11. Harvesting & Post-Harvest Care
 
 - **Harvest Time:** **45-55 days** after sowing.  
@@ -87,28 +86,11 @@ Bhindi (Okra) is a **warm-season, fast-growing vegetable** commonly cultivated a
 
 ## 12. Common Problems & Organic Solutions
 
-<table>  
-<tr>  
-<th>Problem</th>  
-<th>Cause</th>  
-<th>Solution</th>  
-</tr>  
-<tr>  
-<td>Yellowing Leaves</td>  
-<td>Nutrient deficiency</td>  
-<td>Apply **Jeevamrut** or **cow dung compost**.</td>  
-</tr>  
-<tr>  
-<td>Curled Leaves</td>  
-<td>Pest attack (aphids/mites)</td>  
-<td>Neem oil spray (5 ml per liter of water).</td>  
-</tr>  
-<tr>  
-<td>Low Yield</td>  
-<td>Poor pollination</td>  
-<td>Plant bee-attracting flowers nearby.</td>  
-</tr>  
-</table>  
+| Problem          | Cause                        | Solution                                         |
+|-----------------|-----------------------------|-------------------------------------------------|
+| Yellowing Leaves | Nutrient deficiency         | Apply **Jeevamrut** or **cow dung compost**.    |
+| Curled Leaves   | Pest attack (aphids/mites)  | Neem oil spray (5 ml per liter of water).       |
+| Low Yield       | Poor pollination            | Plant bee-attracting flowers nearby.            |
 
 ## 13. Additional Resources
 
