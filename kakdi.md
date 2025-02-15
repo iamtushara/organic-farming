@@ -37,7 +37,6 @@ Kakdi (Indian Long Cucumber) is a **fast-growing, vine crop** cultivated in **tr
 - **Trellis Support:** Helps **prevent fruit rot, reduce pest attacks, and improve fruit quality**.  
 
 ## 6. Companion Planting  
-### Best Companion Plants  
 - **Legumes (Beans, Peas):** Improve soil nitrogen levels.  
 - **Marigold & Sunflower:** Repel pests and attract pollinators.  
 - **Coriander & Mint:** Improve soil health and deter insects.  
@@ -124,7 +123,7 @@ Kakdi (Indian Long Cucumber) is a **fast-growing, vine crop** cultivated in **tr
 - [Krishi Jagran - Kakdi Organic Cultivation](https://www.krishijagran.com)  
 
 **YouTube Tutorial:**  
-![Watch how to grow Kakdi organically](https://www.youtube.com/watch?v=xyz123)  
+[Watch how to grow Kakdi organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion  
 Kakdi (**Indian Long Cucumber**) is a **highly profitable, fast-growing crop** that thrives in **organic farming systems**. By using **compost, neem-based pesticides, and efficient irrigation techniques**, farmers can cultivate **chemical-free, high-quality Kakdi**. With **companion planting and organic soil fertility methods**, Kakdi farming can be **sustainable and eco-friendly**.

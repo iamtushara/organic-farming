@@ -35,7 +35,6 @@ Bhindi (Okra) is a **warm-season, fast-growing vegetable** commonly cultivated a
 - **Germination Time:** 4-7 days under warm conditions.  
 
 ## 6. Companion Planting
-### Best Companion Plants
 - **Basil & Marigold:** Repel pests and attract pollinators.  
 - **Coriander & Mint:** Improve soil quality and deter harmful insects.  
 - **Radish & Garlic:** Protect against aphids and beetles.  
@@ -122,7 +121,7 @@ Bhindi (Okra) is a **warm-season, fast-growing vegetable** commonly cultivated a
 - [Krishi Jagran - Bhindi Organic Cultivation](https://www.krishijagran.com)  
 
 **YouTube Tutorial:**  
-![Watch how to grow Bhindi organically](https://www.youtube.com/watch?v=xyz123)  
+[Watch how to grow Bhindi organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion
 Bhindi (**Okra**) is an excellent **organic farming crop** due to its **high yield, disease resistance, and adaptability to Indian climates**. By using **companion planting, organic pest control, and natural fertilizers**, farmers can cultivate **healthy, chemical-free** Bhindi with **sustainable farming practices**.

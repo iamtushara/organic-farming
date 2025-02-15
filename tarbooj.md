@@ -38,7 +38,7 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
 - **Mulching:** Use **dry grass or plastic mulch** to retain soil moisture and prevent weeds.  
 
 ## 6. Companion Planting  
-### Best Companion Plants  
+
 - **Radish & Beans:** Improve soil nitrogen content.  
 - **Sunflower & Marigold:** Repel pests and attract pollinators.  
 - **Coriander & Mint:** Improve soil health and deter insects.  
@@ -129,7 +129,7 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
 - [Krishi Jagran - Watermelon Organic Cultivation](https://www.krishijagran.com)  
 
 **YouTube Tutorial:**  
-![Watch how to grow Tarbooj organically](https://www.youtube.com/watch?v=xyz123)  
+[Watch how to grow Tarbooj organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion  
 Tarbooj (**Watermelon**) is a **highly profitable, fast-growing fruit crop** that thrives in **organic farming systems**. By using **compost, neem-based pesticides, and efficient irrigation techniques**, farmers can cultivate **chemical-free, high-quality watermelons**. With **companion planting and organic soil fertility methods**, watermelon farming can be **sustainable and eco-friendly**.

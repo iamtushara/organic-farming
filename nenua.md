@@ -36,7 +36,6 @@ Nenua (Sponge Gourd) is a **fast-growing vine crop** belonging to the Cucurbitac
 - **Germination Time:** 7-10 days under warm conditions.  
 
 ## 6. Companion Planting
-### Best Companion Plants
 - **Marigold & Sunflower:** Repel harmful insects and attract pollinators.  
 - **Coriander & Mint:** Improve soil health and deter pests.  
 - **Radish & Garlic:** Help in pest control and improve nutrient absorption.  
@@ -123,7 +122,7 @@ Nenua (Sponge Gourd) is a **fast-growing vine crop** belonging to the Cucurbitac
 - [Krishi Jagran - Sponge Gourd Organic Cultivation](https://www.krishijagran.com)  
 
 **YouTube Tutorial:**  
-![Watch how to grow Nenua organically](https://www.youtube.com/watch?v=xyz123)  
+[Watch how to grow Nenua organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion
 Nenua (**Sponge Gourd**) is a highly productive vine crop that is **ideal for organic farming** in India. By **using compost, neem-based pesticides, and natural pollination methods**, farmers can ensure **chemical-free, sustainable** cultivation. With proper companion planting and **natural soil fertility boosters**, Nenua farming can be highly **profitable and environmentally friendly**.

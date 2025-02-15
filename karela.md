@@ -35,7 +35,7 @@ Bitter Gourd is a nutritious and medicinal vegetable, widely cultivated in India
 - **Trellis Support:** Essential for better growth and fruiting.
 
 ## 6. Companion Planting
-### Best Companion Plants
+
 - **Garlic & Onions:** Repel aphids and whiteflies.
 - **Marigold:** Attracts pollinators and repels nematodes.
 - **Spinach & Radish:** Suppress weeds and improve soil fertility.

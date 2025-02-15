@@ -38,7 +38,6 @@ Lauki (Bottle Gourd) is a **fast-growing vine crop** widely grown in India for i
 - **Trellis Support:** Essential for **better airflow, disease prevention, and uniform fruit shape**.  
 
 ## 6. Companion Planting  
-### Best Companion Plants  
 - **Coriander & Mint:** Improve soil health and repel pests.  
 - **Radish & Garlic:** Help in pest control and nutrient absorption.  
 - **Marigold & Sunflower:** Repel harmful insects and attract pollinators.  

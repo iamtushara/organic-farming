@@ -36,12 +36,10 @@ Dhaniya Patta, or coriander, is an aromatic herb used in Indian cuisine for its 
 ## 6. Companion Planting
 
 Companion planting helps in pest control, better growth, and increased yield.
-
-- **Best Companion Plants:**
-    - **Fenugreek (Methi):** Helps improve soil nitrogen
-    - **Spinach:** Prevents weed growth
-    - **Tomatoes:** Repels harmful insects
-    - **Onions & Garlic:** Deters aphids and pests
+- **Fenugreek (Methi):** Helps improve soil nitrogen
+- **Spinach:** Prevents weed growth
+- **Tomatoes:** Repels harmful insects
+- **Onions & Garlic:** Deters aphids and pests
 
 ## 7. Plants to Avoid
 

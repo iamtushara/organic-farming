@@ -35,7 +35,7 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
 - **Germination Time:** **5-7 days** under optimal conditions.  
 
 ## 6. Companion Planting  
-### Best Companion Plants  
+
 - **Radish & Carrots:** Improve soil aeration and root growth.  
 - **Garlic & Onion:** Repel aphids and whiteflies.  
 - **Coriander & Mint:** Enhance soil fertility and pest resistance.  
@@ -124,7 +124,7 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
 - [Krishi Jagran - Palak Organic Cultivation](https://www.krishijagran.com)  
 
 **YouTube Tutorial:**  
-![Watch how to grow Palak organically](https://www.youtube.com/watch?v=xyz123)  
+[Watch how to grow Palak organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion  
 Palak (**Spinach**) is a highly productive leafy green that is **ideal for organic farming** in India. By using **compost, neem-based pesticides, and efficient watering techniques**, farmers can ensure **chemical-free, sustainable cultivation**. With proper soil management and **natural fertilizers**, Palak farming can be highly **profitable and environmentally friendly**.

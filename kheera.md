@@ -38,7 +38,7 @@ Kheera (Cucumber) is a **fast-growing vine crop** that belongs to the **Cucurbit
 - **Trellis Support:** Helps **improve airflow, reduce disease, and enhance fruit quality**.  
 
 ## 6. Companion Planting  
-### Best Companion Plants  
+
 - **Radish & Beans:** Improve soil aeration and nitrogen content.  
 - **Marigold & Sunflower:** Repel pests and attract pollinators.  
 - **Coriander & Mint:** Improve soil health and deter insects.  
