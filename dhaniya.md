@@ -36,6 +36,7 @@ Dhaniya Patta, or coriander, is an aromatic herb used in Indian cuisine for its 
 ## 6. Companion Planting
 
 Companion planting helps in pest control, better growth, and increased yield.
+
 - **Fenugreek (Methi):** Helps improve soil nitrogen
 - **Spinach:** Prevents weed growth
 - **Tomatoes:** Repels harmful insects
@@ -64,9 +65,9 @@ Companion planting helps in pest control, better growth, and increased yield.
 
 - **Common Pests:** Aphids, whiteflies, and leaf miners
 - **Organic Pest Control:**
-    - **Neem Oil Spray:** 5 ml neem oil per liter of water
-    - **Garlic & Chili Spray:** Natural insect repellent
-    - **Intercropping:** Plant marigold nearby to repel pests
+  - **Neem Oil Spray:** 5 ml neem oil per liter of water
+  - **Garlic & Chili Spray:** Natural insect repellent
+  - **Intercropping:** Plant marigold nearby to repel pests
 
 ## 11. Harvesting & Post Harvest Care
 
