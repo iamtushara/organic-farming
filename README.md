@@ -2,7 +2,7 @@
 
 Welcome to my organic farming journey!
 
-## Here is what I have planted in my farm:
+## Here is what I have planted in my farm
 
 1. [Bhindi](https://iamtushara.github.io/organic-farming/bhindi)  
    <a href="https://iamtushara.github.io/organic-farming/bhindi">
