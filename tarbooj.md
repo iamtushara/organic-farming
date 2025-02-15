@@ -1,6 +1,7 @@
 # Tarbooj (Watermelon) Organic Farming Guide  
 
 ## 1. English, Latin & Common Names  
+
 - **English Name:** Watermelon  
 - **Latin Name:** *Citrullus lanatus*  
 - **Common Indian Names:**  
@@ -11,9 +12,11 @@
   - Tormuj (Odia)  
 
 ## 2. Introduction  
+
 Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs to the **Cucurbitaceae family**. It is widely cultivated in India for its **sweet, refreshing fruit with high water content**. Watermelon farming is **highly profitable**, especially when grown using **organic techniques** that enhance **soil fertility, disease resistance, and fruit quality**.
 
 ## 3. Health Benefits  
+
 - **Hydrates the Body:** 92% water content, prevents dehydration.  
 - **Rich in Antioxidants:** Contains lycopene and vitamin C.  
 - **Aids Digestion:** High in fiber and supports gut health.  
@@ -21,6 +24,7 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
 - **Supports Weight Loss:** Low in calories, high in nutrients.  
 
 ## 4. Ideal Climate & Soil Condition  
+
 - **Temperature:** **25°C – 35°C** (best for germination and fruit development).  
 - **Soil Type:** Well-drained **sandy loam or loamy soil**, pH **6.0 – 7.5**.  
 - **Sunlight:** Requires **8-10 hours of direct sunlight** daily.  
@@ -30,6 +34,7 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
   - **Winter Crop (Mild Winters):** September – October  
 
 ## 5. Seed Sowing  
+
 - **Seed Selection:** Use **high-yielding, disease-resistant varieties** like **Arka Manik, Sugar Baby, Kiran, and Madhuri-64**.  
 - **Seed Treatment:** Soak seeds in **Trichoderma solution or cow dung slurry** for **12 hours** before sowing.  
 - **Sowing Depth:** **2-3 cm deep** in soil.  
@@ -44,17 +49,20 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
 - **Coriander & Mint:** Improve soil health and deter insects.  
 
 ## 7. Plants to Avoid  
+
 - **Potatoes:** Compete for nutrients, leading to poor growth.  
 - **Cucumbers & Melons:** Increase the risk of fungal diseases.  
 - **Tomatoes:** Attract similar pests, increasing infestation risk.  
 
 ## 8. Organic Soil Fertility Improvement  
+
 - **Vermicompost:** Apply **4-5 kg per plant every 15 days**.  
 - **Cow Dung Manure:** **5-7 kg per square meter** to improve root strength.  
 - **Neem Cake:** **200-250 g per plant** as a natural pesticide.  
 - **Jeevamrut or Panchagavya:** Boosts microbial activity and enhances growth.  
 
 ## 9. Irrigation & Watering  
+
 - **Watering Frequency:**  
   - **Summer:** Water every **3-4 days**.  
   - **Monsoon:** Water only when soil appears dry.  
@@ -64,6 +72,7 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
 
 ## 10. Organic Pest & Disease Management  
 
+```html
 <table>  
 <tr>  
 <th>Common Issue</th>  
@@ -86,8 +95,10 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
 <td>Use Trichoderma-enriched compost and avoid waterlogging.</td>  
 </tr>  
 </table>  
+```
 
 ## 11. Harvesting & Post-Harvest Care  
+
 - **Harvest Time:** **70-90 days** after sowing.  
 - **Signs of Maturity:**  
   - **Yellowing of the bottom rind** (where the fruit touches the soil).  
@@ -124,6 +135,7 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
 </table>  
 
 ## 13. Additional Resources  
+
 - [National Horticulture Board India - Watermelon Farming](http://nhb.gov.in)  
 - [ICAR Organic Farming Guidelines](https://icar.org.in)  
 - [Krishi Jagran - Watermelon Organic Cultivation](https://www.krishijagran.com)  
@@ -132,4 +144,5 @@ Tarbooj (Watermelon) is a **fast-growing, warm-season vine crop** that belongs t
 [Watch how to grow Tarbooj organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion  
+
 Tarbooj (**Watermelon**) is a **highly profitable, fast-growing fruit crop** that thrives in **organic farming systems**. By using **compost, neem-based pesticides, and efficient irrigation techniques**, farmers can cultivate **chemical-free, high-quality watermelons**. With **companion planting and organic soil fertility methods**, watermelon farming can be **sustainable and eco-friendly**.

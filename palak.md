@@ -1,6 +1,7 @@
 # Palak (Spinach) Organic Farming Guide  
 
 ## 1. English, Latin & Common Names  
+
 - **English Name:** Spinach  
 - **Latin Name:** *Spinacia oleracea*  
 - **Common Indian Names:**  
@@ -10,15 +11,18 @@
   - Palak Saag (Bengali)  
 
 ## 2. Introduction  
+
 Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cultivated in India. It is a **cool-season crop** that thrives in **organic farming systems**. Spinach is known for its **high yield, quick growth cycle, and medicinal benefits**. It can be grown in **backyards, terrace gardens, or large-scale farms** using organic methods.
 
 ## 3. Health Benefits  
+
 - **Rich in Iron:** Prevents anemia and boosts energy levels.  
 - **High in Antioxidants:** Supports immunity and skin health.  
 - **Aids Digestion:** Contains fiber that promotes gut health.  
 - **Strengthens Bones:** High in calcium and vitamin K.  
 
 ## 4. Ideal Climate & Soil Condition  
+
 - **Temperature:** **15°C – 25°C** (Optimal for leaf growth).  
 - **Soil Type:** Well-drained **loamy soil** with pH **6.0 – 7.5**.  
 - **Sunlight:** Requires **4-6 hours of sunlight** daily (can tolerate partial shade).  
@@ -28,6 +32,7 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
   - **Monsoon Crop:** July – August (requires proper drainage)  
 
 ## 5. Seed Sowing  
+
 - **Seed Selection:** Use indigenous, high-yielding varieties like **Pusa Harit, All Green, and Jarkhand Palak**.  
 - **Seed Treatment:** Soak seeds in **cow dung slurry or Panchagavya** for **4-6 hours** before sowing.  
 - **Sowing Depth:** **1-1.5 cm deep** in rows.  
@@ -41,17 +46,20 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
 - **Coriander & Mint:** Enhance soil fertility and pest resistance.  
 
 ## 7. Plants to Avoid  
+
 - **Potatoes:** Compete for nutrients and attract similar pests.  
 - **Fennel:** Releases chemicals that inhibit spinach growth.  
 - **Beetroot:** Can slow down spinach growth due to nutrient competition.  
 
 ## 8. Organic Soil Fertility Improvement  
+
 - **Vermicompost:** Apply **1-2 kg per square meter** before planting.  
 - **Cow Dung Manure:** **3 kg per square meter** for nutrient-rich soil.  
 - **Neem Cake:** **150 g per square meter** to prevent soil-borne pests.  
 - **Liquid Biofertilizer:** **Jeevamrut or Panchagavya** every 15 days.  
 
 ## 9. Irrigation & Watering  
+
 - **Watering Frequency:**  
   - **Winter:** Water every 4-5 days.  
   - **Summer:** Water every **2-3 days** to maintain moisture.  
@@ -85,6 +93,7 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
 </table>  
 
 ## 11. Harvesting & Post-Harvest Care  
+
 - **Harvest Time:** **30-40 days** after sowing.  
 - **Harvest Method:**  
   - Cut the outer leaves first to allow continuous growth.  
@@ -119,6 +128,7 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
 </table>  
 
 ## 13. Additional Resources  
+
 - [National Horticulture Board India - Spinach Farming](http://nhb.gov.in)  
 - [ICAR Organic Farming Guidelines](https://icar.org.in)  
 - [Krishi Jagran - Palak Organic Cultivation](https://www.krishijagran.com)  
@@ -127,4 +137,5 @@ Palak (Spinach) is a **fast-growing, nutrient-rich leafy vegetable** widely cult
 [Watch how to grow Palak organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion  
+
 Palak (**Spinach**) is a highly productive leafy green that is **ideal for organic farming** in India. By using **compost, neem-based pesticides, and efficient watering techniques**, farmers can ensure **chemical-free, sustainable cultivation**. With proper soil management and **natural fertilizers**, Palak farming can be highly **profitable and environmentally friendly**.

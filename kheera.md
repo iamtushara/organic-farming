@@ -1,6 +1,7 @@
 # Kheera (Cucumber) Organic Farming Guide  
 
 ## 1. English, Latin & Common Names  
+
 - **English Name:** Cucumber  
 - **Latin Name:** *Cucumis sativus*  
 - **Common Indian Names:**  
@@ -11,9 +12,11 @@
   - Sosha (Bengali)  
 
 ## 2. Introduction  
+
 Kheera (Cucumber) is a **fast-growing vine crop** that belongs to the **Cucurbitaceae family**. It is widely grown in India for its **nutritional, medicinal, and cooling properties**. The fruit is mainly consumed raw in salads, as juice, or in detox drinks. Organic farming techniques help produce **nutrient-rich, chemical-free cucumbers** with **higher market value**.
 
 ## 3. Health Benefits  
+
 - **Keeps the Body Hydrated:** 95% water content.  
 - **Aids Digestion:** High in fiber, prevents constipation.  
 - **Rich in Antioxidants:** Protects against inflammation.  
@@ -21,6 +24,7 @@ Kheera (Cucumber) is a **fast-growing vine crop** that belongs to the **Cucurbit
 - **Controls Blood Sugar:** Helps in diabetes management.  
 
 ## 4. Ideal Climate & Soil Condition  
+
 - **Temperature:** **20°C – 35°C** (best for germination and growth).  
 - **Soil Type:** Well-drained **loamy soil** with pH **6.0 – 7.0**.  
 - **Sunlight:** Requires **6-8 hours of direct sunlight** daily.  
@@ -30,6 +34,7 @@ Kheera (Cucumber) is a **fast-growing vine crop** that belongs to the **Cucurbit
   - **Winter Crop (Mild Winters):** September – November (only in frost-free regions).  
 
 ## 5. Seed Sowing  
+
 - **Seed Selection:** Choose high-yielding, disease-resistant varieties like **Pusa Uday, Kashi Suruchi, and Punjab Naveen**.  
 - **Seed Treatment:** Soak seeds in **cow dung slurry or Trichoderma solution** for **12 hours** before sowing.  
 - **Sowing Depth:** **2-3 cm deep** in soil.  
@@ -44,17 +49,20 @@ Kheera (Cucumber) is a **fast-growing vine crop** that belongs to the **Cucurbit
 - **Coriander & Mint:** Improve soil health and deter insects.  
 
 ## 7. Plants to Avoid  
+
 - **Potatoes:** Compete for nutrients, leading to stunted growth.  
 - **Tomatoes:** Attract similar pests, increasing infestation risk.  
 - **Melons & Pumpkins:** Compete for space and nutrients.  
 
 ## 8. Organic Soil Fertility Improvement  
+
 - **Vermicompost:** Apply **3-4 kg per plant every 15 days**.  
 - **Cow Dung Manure:** **5 kg per square meter** for soil fertility.  
 - **Neem Cake:** **200 g per plant** as a natural pesticide.  
 - **Panchagavya:** Boosts plant immunity and microbial activity.  
 
 ## 9. Irrigation & Watering  
+
 - **Watering Frequency:**  
   - **Summer:** Water every **2-3 days**.  
   - **Monsoon:** Water only when soil appears dry.  
@@ -88,6 +96,7 @@ Kheera (Cucumber) is a **fast-growing vine crop** that belongs to the **Cucurbit
 </table>  
 
 ## 11. Harvesting & Post-Harvest Care  
+
 - **Harvest Time:** **45-55 days** after sowing.  
 - **Harvest Method:** Pick young, tender cucumbers (10-20 cm long) every **2-3 days** for continuous fruiting.  
 - **Storage:**  
@@ -120,6 +129,7 @@ Kheera (Cucumber) is a **fast-growing vine crop** that belongs to the **Cucurbit
 </table>  
 
 ## 13. Additional Resources  
+
 - [National Horticulture Board India - Cucumber Farming](http://nhb.gov.in)  
 - [ICAR Organic Farming Guidelines](https://icar.org.in)  
 - [Krishi Jagran - Cucumber Organic Cultivation](https://www.krishijagran.com)  
@@ -128,4 +138,5 @@ Kheera (Cucumber) is a **fast-growing vine crop** that belongs to the **Cucurbit
 [Watch how to grow Kheera organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion  
+
 Kheera (**Cucumber**) is a **profitable and nutritious crop** that thrives in **organic farming systems**. By using **compost, neem-based pesticides, and efficient irrigation techniques**, farmers can grow **chemical-free, high-quality cucumbers**. With **companion planting and natural fertilizers**, Kheera farming can be **sustainable and environmentally friendly**.

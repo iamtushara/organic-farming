@@ -1,6 +1,7 @@
 # Nenua (Sponge Gourd) Organic Farming Guide
 
 ## 1. English, Latin & Common Names
+
 - **English Name:** Sponge Gourd  
 - **Latin Name:** *Luffa cylindrica*  
 - **Common Indian Names:**  
@@ -11,15 +12,18 @@
   - Beerakaya (Telugu)  
 
 ## 2. Introduction
+
 Nenua (Sponge Gourd) is a **fast-growing vine crop** belonging to the Cucurbitaceae family. It is widely cultivated across India for its **nutritious, fiber-rich fruits**, which are used in cooking and skincare. Nenua thrives in **warm climates** and can be grown **organically** using natural composts, biofertilizers, and eco-friendly pest management techniques.
 
 ## 3. Health Benefits
+
 - **Rich in Dietary Fiber:** Aids digestion and prevents constipation.  
 - **Lowers Blood Sugar:** Beneficial for diabetes management.  
 - **Boosts Immunity:** High in vitamins A, C, and antioxidants.  
 - **Supports Heart Health:** Contains potassium, which helps regulate blood pressure.  
 
 ## 4. Ideal Climate & Soil Condition
+
 - **Temperature:** 25°C – 35°C (optimal for growth).  
 - **Soil Type:** Well-drained **sandy loam or clayey soil** with pH **6.0 – 7.5**.  
 - **Sunlight:** Requires **6-8 hours of direct sunlight daily**.  
@@ -29,6 +33,7 @@ Nenua (Sponge Gourd) is a **fast-growing vine crop** belonging to the Cucurbitac
   - **Winter Crop (South India):** September – October  
 
 ## 5. Seed Sowing
+
 - **Seed Selection:** Use indigenous, disease-resistant varieties such as **Pusa Sneha, Narendra Nenua-1, and CO-1**.  
 - **Seed Treatment:** Soak seeds in **cow dung slurry or Panchagavya** for 12 hours before sowing.  
 - **Sowing Depth:** 2-3 cm deep.  
@@ -36,22 +41,26 @@ Nenua (Sponge Gourd) is a **fast-growing vine crop** belonging to the Cucurbitac
 - **Germination Time:** 7-10 days under warm conditions.  
 
 ## 6. Companion Planting
+
 - **Marigold & Sunflower:** Repel harmful insects and attract pollinators.  
 - **Coriander & Mint:** Improve soil health and deter pests.  
 - **Radish & Garlic:** Help in pest control and improve nutrient absorption.  
 
 ## 7. Plants to Avoid
+
 - **Potatoes:** Compete for nutrients, reducing growth.  
 - **Cabbage & Cauliflower:** Attract common cucurbit pests.  
 - **Pumpkin & Melons:** Increase the risk of fungal infections and nutrient competition.  
 
 ## 8. Organic Soil Fertility Improvement
+
 - **Vermicompost:** Apply **3-4 kg per plant every 15 days**.  
 - **Cow Dung Manure:** **5 kg per square meter** for strong root development.  
 - **Neem Cake:** **200 g per plant** as a natural pesticide.  
 - **Jeevamrut:** Enhances microbial activity and boosts plant immunity.  
 
 ## 9. Irrigation & Watering
+
 - **Watering Frequency:**  
   - **Summer:** Water every 2-3 days.  
   - **Monsoon:** Water only when the soil appears dry.  
@@ -85,6 +94,7 @@ Nenua (Sponge Gourd) is a **fast-growing vine crop** belonging to the Cucurbitac
 </table>  
 
 ## 11. Harvesting & Post-Harvest Care
+
 - **Harvest Time:** **45-55 days** after sowing.  
 - **Harvest Method:** Pick young, tender fruits (10-15 cm long) every **2-3 days** to encourage continuous fruiting.  
 - **Storage:**  
@@ -117,6 +127,7 @@ Nenua (Sponge Gourd) is a **fast-growing vine crop** belonging to the Cucurbitac
 </table>  
 
 ## 13. Additional Resources
+
 - [National Horticulture Board India - Nenua Farming](http://nhb.gov.in)  
 - [ICAR Organic Farming Guidelines](https://icar.org.in)  
 - [Krishi Jagran - Sponge Gourd Organic Cultivation](https://www.krishijagran.com)  
@@ -125,4 +136,5 @@ Nenua (Sponge Gourd) is a **fast-growing vine crop** belonging to the Cucurbitac
 [Watch how to grow Nenua organically](https://www.youtube.com/watch?v=xyz123)  
 
 ## 14. Conclusion
+
 Nenua (**Sponge Gourd**) is a highly productive vine crop that is **ideal for organic farming** in India. By **using compost, neem-based pesticides, and natural pollination methods**, farmers can ensure **chemical-free, sustainable** cultivation. With proper companion planting and **natural soil fertility boosters**, Nenua farming can be highly **profitable and environmentally friendly**.

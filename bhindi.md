@@ -69,30 +69,13 @@ Bhindi (Okra) is a **warm-season, fast-growing vegetable** commonly cultivated a
 
 ## 10. Organic Pest & Disease Management
 
-```html
-<table>  
-<tr>  
-<th>Common Issue</th>  
-<th>Organic Solution</th>  
-</tr>  
-<tr>  
-<td>Aphids & Whiteflies</td>  
-<td>Spray neem oil (5 ml per liter of water) every 10 days.</td>  
-</tr>  
-<tr>  
-<td>Fruit Borer</td>  
-<td>Apply Bacillus thuringiensis (BT) spray.</td>  
-</tr>  
-<tr>  
-<td>Yellow Vein Mosaic Virus (YVMV)</td>  
-<td>Use virus-resistant varieties and remove affected plants.</td>  
-</tr>  
-<tr>  
-<td>Powdery Mildew</td>  
-<td>Spray a mixture of milk and water (1:9 ratio).</td>  
-</tr>  
-</table>  
-```
+| Common Issue                 | Organic Solution                                         |
+|------------------------------|---------------------------------------------------------|
+| Aphids & Whiteflies          | Spray neem oil (5 ml per liter of water) every 10 days. |
+| Fruit Borer                  | Apply Bacillus thuringiensis (BT) spray.                |
+| Yellow Vein Mosaic Virus (YVMV) | Use virus-resistant varieties and remove affected plants. |
+| Powdery Mildew               | Spray a mixture of milk and water (1:9 ratio).         |
+
 
 ## 11. Harvesting & Post-Harvest Care
 
@@ -104,7 +87,6 @@ Bhindi (Okra) is a **warm-season, fast-growing vegetable** commonly cultivated a
 
 ## 12. Common Problems & Organic Solutions
 
-```html
 <table>  
 <tr>  
 <th>Problem</th>  
@@ -127,7 +109,6 @@ Bhindi (Okra) is a **warm-season, fast-growing vegetable** commonly cultivated a
 <td>Plant bee-attracting flowers nearby.</td>  
 </tr>  
 </table>  
-```
 
 ## 13. Additional Resources
 
