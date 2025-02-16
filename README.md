@@ -26,7 +26,7 @@ Welcome to my organic farming journey!
 
 5. [Kheera](https://iamtushara.github.io/organic-farming/kheera)  
    <a href="https://iamtushara.github.io/organic-farming/kheera">
-       <img src="assets/images/kheera.jpg" width="200" height="200">
+       <img src="assets/images/kheera.webp" width="200" height="200">
    </a>
 
 6. [Lauki](https://iamtushara.github.io/organic-farming/lauki)  
