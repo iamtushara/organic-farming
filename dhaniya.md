@@ -6,7 +6,7 @@
 - **Latin Name:** _Coriandrum sativum_
 - **Common Names:** Dhaniya (Hindi), Kotmir (Marathi), Kothamalli (Tamil), Cilantro (Spanish)
 
-## 2. Introduction
+## 2. Introduction of Dhaniya
 
 Dhaniya Patta, or coriander, is an aromatic herb used in Indian cuisine for its distinct flavor and medicinal benefits. It grows quickly, requires minimal maintenance, and is perfect for small-scale organic farming.
 
